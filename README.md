@@ -1,4 +1,4 @@
-# Relational Databases: Concepts and Techniques - DML та DDL команди. Складні SQL вирази
+# Relational Databases: Concepts and Techniques - DML та DDL команди. Складні SQL вирази.
 
 ## 📌 Опис
 
