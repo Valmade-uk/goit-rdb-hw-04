@@ -23,17 +23,17 @@ goit-rdb-hw-04/
 │   ├── task_4.1.png         # COUNT(*) з INNER JOINT
 │   ├── task_4.2.1.png       # COUNT(*) з LEFT JOINT
 │   ├── task_4.2.2.png       # COUNT(*) з RIGHT JOINT
-│   ├── task_4.2.3.png       # SELECT * з RIGHT JOINT та LEFT JOINT
+│   ├── task_4.2.3.png       # SELECT*  з RIGHT JOINT та LEFT JOINT
 │   ├── task_4.2.4.png       # COUNT(*) з RIGHT JOINT та LEFT JOINT
 │   ├── task_4.2.5.png       # COUNT(*) з RIGHT JOINT та LEFT JOINT де WHERE customer_id IS NULL;
-│   ├── task_4.3.1.png       # SELECT *  WHERE em. employee_id
+│   ├── task_4.3.1.png       # SELECT*  з WHERE 
 and em. employee_id <= 10;
-│   ├── task_4.3.2.png       # COUNT(*)  WHERE em. employee_id
+│   ├── task_4.3.2.png       # COUNT(*) з WHERE 
 and em. employee_id <= 10;
 │   ├── task_4.4.png         # GROUP BY 
 │   ├── task_4.5.png         # HAVING
 │   ├── task_4.6.png         # ORDER BY
-│   ├── task_4.7.png         # LIMIT та OFFSET
+│   ├── task_4.7.png         # LIMIT з OFFSET
 │   └── answer_to_question_4.2.pdf
 └── README.md
 ```
