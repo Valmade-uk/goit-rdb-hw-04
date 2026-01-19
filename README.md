@@ -13,18 +13,27 @@
 goit-rdb-hw-04/
 │
 ├── task_1/                # Створення структури БД
-│   ├──
-│   └──
+│   ├── task_1.1.png         # Перша частина (CREATE TABLE)
+│   └── task_1.2.png         # Друга частина (CREATE TABLE)
 ├── task_2/                # Наповнення таблиць тестовими даними
+│   └── task_2.png           # INSERT INTO
 ├── task_3/                # JOIN усіх таблиць з бази mydb
+│   └── task_3.png           # INNER JOINT
 ├── task_4/                # Аналітичні запити
-│   ├── task_4.1.png
-│   ├── task_4.2.x.png
-│   ├── task_4.3.x.png
-│   ├── task_4.4.png
-│   ├── task_4.5.png
-│   ├── task_4.6.png
-│   ├── task_4.7.png
+│   ├── task_4.1.png         # COUNT(*) з INNER JOINT
+│   ├── task_4.2.1.png       # COUNT(*) з LEFT JOINT
+│   ├── task_4.2.2.png       # COUNT(*) з RIGHT JOINT
+│   ├── task_4.2.3.png       # SELECT * з RIGHT JOINT та LEFT JOINT
+│   ├── task_4.2.4.png       # COUNT(*) з RIGHT JOINT та LEFT JOINT
+│   ├── task_4.2.5.png       # COUNT(*) з RIGHT JOINT та LEFT JOINT де WHERE customer_id IS NULL;
+│   ├── task_4.3.1.png       # SELECT *  WHERE em. employee_id
+and em. employee_id <= 10;
+│   ├── task_4.3.2.png       # COUNT(*)  WHERE em. employee_id
+and em. employee_id <= 10;
+│   ├── task_4.4.png         # GROUP BY 
+│   ├── task_4.5.png         # HAVING
+│   ├── task_4.6.png         # ORDER BY
+│   ├── task_4.7.png         # LIMIT та OFFSET
 │   └── answer_to_question_4.2.pdf
 └── README.md
 ```
